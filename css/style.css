@@ -1,0 +1,9 @@
+.categories img{
+    width: 100px;
+}
+.banner .carousel-item{
+    background-color: #fceae8;
+}
+.carousel-item{
+    border-radius: 12px;
+}
